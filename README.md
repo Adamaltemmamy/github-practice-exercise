@@ -1,6 +1,6 @@
-# Responsive Software Developer CV
+# Responsive about me file 
 
-This repository contains a **professional, clean, and fully responsive CV (Curriculum Vitae)** template for a Software Developer. It is built using **HTML and CSS** with a focus on layout, design, and responsiveness across all devices (desktop, tablet, and mobile).
+This repository contains a **professional, clean, and full about me file** template for a Software Developer. It is built using **HTML and CSS** with a focus on layout, design, and responsiveness across all devices (desktop, tablet, and mobile).
 
 ## 📘 Purpose
 
